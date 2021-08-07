@@ -11,7 +11,7 @@ Built With
 
 Website
 
-https://tw2159.github.io/horisen-social-solution-services/Develop/
+https://tw2159.github.io/horisen-social-solution-services/
 
 Contribution
 
