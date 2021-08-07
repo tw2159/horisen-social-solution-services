@@ -54,6 +54,8 @@ header a {
     text-decoration: none;
 }
 
+/* --- Content ---------------------------------------- */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -62,8 +64,6 @@ header a {
     background-size: cover;
     background-position: center;
 }
-
-/* --- Content ---------------------------------------- */
 
 .content {
     width: 75%;
